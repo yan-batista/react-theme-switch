@@ -14,7 +14,7 @@ const Header = props => {
                 onChange={props.toggleTheme}
                 checked={title === 'dark'}
                 checkedIcon={false}
-                unchekedIcon={false}
+                uncheckedIcon={false}
                 height={10}
                 width={20}
             />
